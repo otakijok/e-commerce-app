@@ -1,3 +1,6 @@
+# Next.jsプロジェクトをセットアップしよう
+https://zenn.dev/haruki1009/books/42c167218b5fec/viewer/ed5b66
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
